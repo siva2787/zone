@@ -1,0 +1,6 @@
+{
+  "name": "LearnTwin AI",
+  "description": "Your Learning Twin. A Smarter You. AI-powered personalized learning platform with evolving digital learning twin, knowledge graph, gap detection, and adaptive Gemini tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
